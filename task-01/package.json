@@ -1,0 +1,29 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go": "node index",
+    "demon": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danypryzrak/node-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danypryzrak/node-01/issues"
+  },
+  "homepage": "https://github.com/danypryzrak/node-01#readme",
+  "dependencies": {
+    "nanoid": "^3.3.6",
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
